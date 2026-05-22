@@ -1,0 +1,15 @@
+// Credenciais.h.example
+// Copie este arquivo para Credenciais.h e preencha com suas credenciais reais
+// NUNCA commit o arquivo Credenciais.h com senhas reais!
+
+#ifndef CREDENCIAIS_H
+#define CREDENCIAIS_H
+
+const char* ssid = "SEU_WIFI_SSID";
+const char* password = "SUA_SENHA_WIFI";
+const char* mqttServer = "IP_DO_BROKER_MQTT";
+const char* mqttUserName = "SEU_USUARIO_MQTT";
+const char* mqttPwd = "SUA_SENHA_MQTT";
+const char* clientID = "ESP32-IoT";
+
+#endif // CREDENCIAIS_H

@@ -1,0 +1,17 @@
+# Credentials - NEVER commit real credentials
+Credenciais.h
+
+# IDE files
+*.ino.*
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.bin
+*.elf
+*.map
